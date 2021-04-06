@@ -1,0 +1,9 @@
+{
+  "name": "svelte-typescript-test",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "app",
+    "package"
+  ]
+}
