@@ -1,7 +1,7 @@
 import { SvelteComponentTyped } from 'svelte';
 
 export interface AlertProps {
-  text: number;
+  text: string;
 }
 
 export default class Alert extends SvelteComponentTyped<AlertProps> {}
