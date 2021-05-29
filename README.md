@@ -3,8 +3,6 @@
 ## Setup
 
 ```
-cd package
-npm link
-cd ../app
-npm link @jstarmx/svelte-component-library
+cd app
+npm link ../package
 ```
